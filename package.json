@@ -12,7 +12,7 @@
     "@babel/polyfill": "^7.2.5"
   },
   "devDependencies": {
-    "@adobe/jsonschema2md": "^4.0.3",
+    "@adobe/jsonschema2md": "^4.0.5",
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.3.3",
     "@babel/plugin-proposal-export-default-from": "^7.2.0",
