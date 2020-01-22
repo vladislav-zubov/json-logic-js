@@ -20,6 +20,7 @@
     "ajv": "^6.10.0",
     "ajv-cli": "^3.0.0",
     "cross-env": "^5.2.0",
+    "doctoc": "^1.4.0",
     "eslint": "^5.14.1",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^4.0.0",
