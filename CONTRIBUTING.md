@@ -29,7 +29,7 @@
 This project is documented with markdown for users in [`README.md`](./README.md) and authors in 
 [`CONTRIBUTING.md`](./CONTRIBUTING.md).
 
-The **API documentation** is genrated by [`@adobe/jsonschema2md`](https://github.com/adobe/jsonschema2md#readme) and can be found [here](./docs/README.md).
+The **API documentation** is genrated by [`@adobe/jsonschema2md`](https://github.com/adobe/jsonschema2md#readme) and can be found at [`./docs#readme`](./docs#readme).
 Simply run `npm run docs` to create it.
 
 A [`CHANGELOG.md`](./CHANGELOG.md) is automatically generated based upon [**Conventional Commits**](https://www.conventionalcommits.org/).
