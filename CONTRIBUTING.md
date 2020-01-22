@@ -42,7 +42,7 @@ You can also run `npm run toc` to manually trigger an update.
 
 The whole API is specified with [**JSON Schema**](https://json-schema.org/).
 
-All schema files are validated by [`ajv`](https://ajv.js.org/) - simply run `npm run lint:schemas`.
+All schema files can be found in [`./schemas`](./schemas) and are validated by [`ajv`](https://ajv.js.org/) - simply run `npm run lint:schemas`.
 
 # How to contribute code?
 
