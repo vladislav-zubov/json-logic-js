@@ -1,0 +1,24 @@
+# Entire data object Schema
+
+```txt
+http://jsonlogic.com/schemas/common/var.json#/oneOf/6
+```
+
+You can also use var with an empty string to get the entire data object – which is really useful in map, filter, and reduce rules.
+
+
+| Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                           |
+| :------------------ | ---------- | -------------- | ----------------------- | :---------------- | --------------------- | ------------------- | ---------------------------------------------------- |
+| Can be instantiated | No         | Unknown status | Unknown identifiability | Forbidden         | Allowed               | none                | [var.json\*](common/var.json "open original schema") |
+
+## 6 Type
+
+`string` ([Entire data object](var-oneof-entire-data-object.md))
+
+## 6 Constraints
+
+**enum**: the value of this property must be equal to one of the following values:
+
+| Value | Explanation |
+| :---- | ----------- |
+| `""`  |             |
