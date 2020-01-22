@@ -6,9 +6,11 @@
 
 - [What should I know before I get started?](#what-should-i-know-before-i-get-started)
   - [Documentation](#documentation)
+  - [API](#api)
 - [How to contribute code?](#how-to-contribute-code)
   - [Build](#build)
   - [Development tools](#development-tools)
+- [Testing](#testing)
 - [Styleguides](#styleguides)
   - [JavaScript](#javascript)
   - [Git Commit Messages](#git-commit-messages)
@@ -27,11 +29,20 @@
 This project is documented with markdown for users in [`README.md`](./README.md) and authors in 
 [`CONTRIBUTING.md`](./CONTRIBUTING.md).
 
+The **API documentation** is genrated by [`@adobe/jsonschema2md`](https://github.com/adobe/jsonschema2md#readme) and can be found [here](./docs/README.md).
+Simply run `npm run docs` to create it.
+
 A [`CHANGELOG.md`](./CHANGELOG.md) is automatically generated based upon [**Conventional Commits**](https://www.conventionalcommits.org/).
 
 A *Table of Contents* is automatically generated for both [`README.md`](./README.md) and [`CONTRIBUTING.md`] by utilising [`doctoc`](https://github.com/thlorenz/doctoc#readme).
 
 You can also run `npm run toc` to manually trigger an update.
+
+## API
+
+The whole API is specified with [**JSON Schema**](https://json-schema.org/).
+
+All schema files are validated by [`ajv`](https://ajv.js.org/) - simply run `npm run lint:schemas`.
 
 # How to contribute code?
 
@@ -48,6 +59,16 @@ Simply run `npm run build`.
 - [browserlist](https://github.com/browserslist/browserslist)
 - [NPM](https://docs.npmjs.com/)
 - [Git](https://git-scm.com/)
+
+# Testing
+
+Run [`npm test`](https://docs.npmjs.com/cli/test.html) to execute unit tests.
+
+All test fixtures are downloaded from:
+- http://jsonlogic.com/tests.json
+- http://jsonlogic.com/rule_like.json
+
+This package is using [`qunit`](https://qunitjs.com/) to write tests.
 
 # Styleguides
 
