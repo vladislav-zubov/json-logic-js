@@ -34,7 +34,7 @@ Simply run `npm run docs` to create it.
 
 A [`CHANGELOG.md`](./CHANGELOG.md) is automatically generated based upon [**Conventional Commits**](https://www.conventionalcommits.org/).
 
-A *Table of Contents* is automatically generated for both [`README.md`](./README.md) and [`CONTRIBUTING.md`] by utilising [`doctoc`](https://github.com/thlorenz/doctoc#readme).
+A *Table of Contents* is automatically generated for both [`README.md`](./README.md) and [`CONTRIBUTING.md`](./CONTRIBUTING.md) by utilising [`doctoc`](https://github.com/thlorenz/doctoc#readme).
 
 You can also run `npm run toc` to manually trigger an update.
 
