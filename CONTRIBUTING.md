@@ -7,7 +7,6 @@
 - [What should I know before I get started?](#what-should-i-know-before-i-get-started)
   - [Documentation](#documentation)
 - [How to contribute code?](#how-to-contribute-code)
-  - [Local Development](#local-development)
   - [Build](#build)
   - [Development tools](#development-tools)
 - [Styleguides](#styleguides)
@@ -38,18 +37,12 @@ You can also run `npm run toc` to manually trigger an update.
 
 If you want/need to make changes to this package please open a Pull-Request.
 
-## Local Development
-
-You can start a local development environment by running `npm run dev`.
-This will incrementally build [`./example`](./example) and serve it.
-
 ## Build
 
 Simply run `npm run build`.
 
 ## Development tools
 
-- [Parcel](https://parceljs.org/)
 - [rollup](https://rollupjs.org/)
 - [Babel](https://babeljs.io/)
 - [browserlist](https://github.com/browserslist/browserslist)
