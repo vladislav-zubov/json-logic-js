@@ -6,6 +6,23 @@ The JsonLogic format is designed to allow you to share rules (logic) between fro
 
 The same format can also be executed in PHP by the library [json-logic-php](https://github.com/jwadhams/json-logic-php/)
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Installation](#installation)
+- [Cherry-picked build](#cherry-picked-build)
+- [Examples](#examples)
+  - [Simple](#simple)
+  - [Compound](#compound)
+  - [Data-Driven](#data-driven)
+  - [Always and Never](#always-and-never)
+- [Compatibility](#compatibility)
+- [Customization](#customization)
+  - [Operator Meta Tags](#operator-meta-tags)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Installation
 
 To parse JsonLogic rules in a JavaScript backend (like Node.js), install this library via [NPM](https://www.npmjs.com/):
