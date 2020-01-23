@@ -1,3 +1,11 @@
+## [2.1.2](https://github.com/axa-ch/json-logic-js/compare/v2.1.1...v2.1.2) (2020-01-23)
+
+
+### Bug Fixes
+
+* lint errors ([a801db1](https://github.com/axa-ch/json-logic-js/commit/a801db105b5baaebf56e81e1d1bb0e8d27420e8e))
+* release lib not commited ([41a2187](https://github.com/axa-ch/json-logic-js/commit/41a2187f9358b7d81c1f163c77fc39607777d032))
+
 ## [2.1.1](https://github.com/axa-ch/json-logic-js/compare/v2.1.0...v2.1.1) (2020-01-23)
 
 # [2.1.0](https://github.com/axa-ch/json-logic-js/compare/v2.0.1...v2.1.0) (2020-01-22)
