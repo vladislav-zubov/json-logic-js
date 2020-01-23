@@ -74,7 +74,7 @@ This package is using [`qunit`](https://qunitjs.com/) to write tests.
 
 ## JavaScript
 
-JavaScript is linted and autoformmated by a combination of [`prettier`](https://prettier.io/) and [`eslint`](https://eslint.org/).
+JavaScript is linted and autoformatted by a combination of [`prettier`](https://prettier.io/) and [`eslint`](https://eslint.org/).
 
 We extend [**Airbnb's JavaScript Styleguide**](https://github.com/airbnb/javascript#readme) available as [`eslint-config-airbnb-base`](https://www.npmjs.com/package/eslint-config-airbnb-base).
 
