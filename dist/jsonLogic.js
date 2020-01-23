@@ -2,7 +2,7 @@
   typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
   typeof define === 'function' && define.amd ? define(factory) :
   (global = global || self, global.jsonLogic = factory());
-}(this, function () { 'use strict';
+}(this, (function () { 'use strict';
 
   var isArray = Array.isArray;
 
@@ -208,7 +208,7 @@
     for (var i = 0; i < keys.length; i++) {
       var key = keys[i];
       var value = apply({
-        var: key
+        "var": key
       }, this);
 
       if (value === null || value === '') {
@@ -563,6 +563,7 @@
 
 
   var operations = /*#__PURE__*/Object.freeze({
+    __proto__: null,
     variable: variable,
     missing: missing,
     missing_some: missing_some,
@@ -678,7 +679,7 @@
 
         if (pattern_op === '@' || pattern_op === rule_op) {
           // echo "\nOperators match, go deeper\n";
-          return rule_like(get_values(rule, false), get_values(pattern, false));
+          return rule_like(get_values(rule), get_values(pattern));
         }
       }
 
@@ -723,5 +724,5 @@
 
   return jsonLogic;
 
-}));
+})));
 //# sourceMappingURL=jsonLogic.js.map
