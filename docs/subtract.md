@@ -1,19 +1,19 @@
 # - Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/arithmetic/subtract.json#/oneOf/7
+http://jsonlogic.com/schemas/operators/arithmetic/subtract.json
 ```
 
 Subtraction. Passing just one argument to - returns its arithmetic negative (additive inverse).
 
 
-| Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                               |
-| :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | ------------------------------------------------------------------------ |
-| Can be instantiated | No         | Unknown status | No           | Forbidden         | Forbidden             | none                | [all-operators.json\*](common/all-operators.json "open original schema") |
+| Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                 |
+| :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | -------------------------------------------------------------------------- |
+| Can be instantiated | No         | Unknown status | No           | Forbidden         | Forbidden             | none                | [subtract.json](operators/arithmetic/subtract.json "open original schema") |
 
-## 7 Type
+## - Type
 
-`object` ([-](all-operators-oneof--.md))
+`object` ([-](subtract.md))
 
 # - Properties
 

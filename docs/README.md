@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [README](#readme)
+  - [Top-level Schemas](#top-level-schemas)
+  - [Other Schemas](#other-schemas)
+    - [Objects](#objects)
+    - [Arrays](#arrays)
+  - [Version Note](#version-note)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # README
 
 ## Top-level Schemas
@@ -7,7 +20,7 @@
 -   [%](./modulo.md "Module") – `http://jsonlogic.com/schemas/operators/arithmetic/modulo.json`
 -   [\*](./multiply.md "Multiplication") – `http://jsonlogic.com/schemas/operators/arithmetic/multiply.json`
 -   [+](./add.md "Addition") – `http://jsonlogic.com/schemas/operators/arithmetic/add.json`
--   [-](./substract.md "Subtraction") – `http://jsonlogic.com/schemas/operators/arithmetic/substract.json`
+-   [-](./subtract.md "Subtraction") – `http://jsonlogic.com/schemas/operators/arithmetic/subtract.json`
 -   [/](./divide.md "Division") – `http://jsonlogic.com/schemas/operators/arithmetic/divide.json`
 -   [1 or more args](./one-or-more-args.md "With 1 or more arguments") – `http://jsonlogic.com/schemas/common/one-or-more-args.json`
 -   [&lt;](./less.md "Less than") – `http://jsonlogic.com/schemas/operators/numeric/less.json`
@@ -60,7 +73,7 @@
 -   [%](./all-operators-oneof--2.md "Module") – `http://jsonlogic.com/schemas/operators/arithmetic/modulo.json#/oneOf/5`
 -   [\*](./all-operators-oneof--3.md "Multiplication") – `http://jsonlogic.com/schemas/operators/arithmetic/multiply.json#/oneOf/6`
 -   [+](./all-operators-oneof--4.md "Addition") – `http://jsonlogic.com/schemas/operators/arithmetic/add.json#/oneOf/3`
--   [-](./all-operators-oneof--.md "Subtraction") – `http://jsonlogic.com/schemas/operators/arithmetic/substract.json#/oneOf/7`
+-   [-](./all-operators-oneof--.md "Subtraction") – `http://jsonlogic.com/schemas/operators/arithmetic/subtract.json#/oneOf/7`
 -   [/](./all-operators-oneof--5.md "Division") – `http://jsonlogic.com/schemas/operators/arithmetic/divide.json#/oneOf/4`
 -   [&lt;](./all-operators-oneof--6.md "Less than") – `http://jsonlogic.com/schemas/operators/numeric/less.json#/oneOf/29`
 -   [&lt;=](./all-operators-oneof--7.md "Less than or equal to") – `http://jsonlogic.com/schemas/operators/numeric/lessEqual.json#/oneOf/30`
