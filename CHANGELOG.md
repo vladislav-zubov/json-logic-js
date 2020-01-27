@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/axa-ch/json-logic-js/compare/v2.2.0...v2.2.1) (2020-01-27)
+
+
+### Bug Fixes
+
+* delete docs before generating them ([cd33ba4](https://github.com/axa-ch/json-logic-js/commit/cd33ba4894c67429d0438c95e5f31ed3cff4153f))
+
 # [2.2.0](https://github.com/axa-ch/json-logic-js/compare/v2.1.2...v2.2.0) (2020-01-27)
 
 
