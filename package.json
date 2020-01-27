@@ -53,6 +53,7 @@
     "lint-fix": "npm run lint -- --fix",
     "lint:schemas": "ajv compile -s schemas/json-logic.json -r 'schemas/**/*.json'",
     "docs": "jsonschema2md -o docs/ -x docs/ -d schemas/ -e json",
+    "predocs": "rimraf docs",
     "toc": "doctoc CONTRIBUTING.md README.md --title '**Table of Contents**'",
     "test": "cross-env NODE_ENV=test qunit 'tests/**/*.js' -r tap",
     "pretest": "npm run build-package",
