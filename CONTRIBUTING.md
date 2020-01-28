@@ -17,6 +17,7 @@
   - [Editors](#editors)
 - [CI/CD](#cicd)
   - [Git Hooks](#git-hooks)
+  - [Travis](#travis)
 - [Releasing a new version](#releasing-a-new-version)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -94,6 +95,10 @@ Basic configuration for various editors is provided by an [`editorconfig`](https
 ## Git Hooks
 
 We use [`husky`](https://github.com/typicode/husky#readme) and [`lintstaged`](https://github.com/okonet/lint-staged#readme) to enforce those styleguide rules for each commit.
+
+## Travis
+
+[**Travis CI**](https://travis-ci.org/) is configured to lint source files, run all tests and run a build to check pull requests.
 
 # Releasing a new version
 
