@@ -14,8 +14,10 @@
 - [Styleguides](#styleguides)
   - [JavaScript](#javascript)
   - [Git Commit Messages](#git-commit-messages)
-  - [Git Hooks](#git-hooks)
   - [Editors](#editors)
+- [CI/CD](#cicd)
+  - [Git Hooks](#git-hooks)
+  - [Travis](#travis)
 - [Releasing a new version](#releasing-a-new-version)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -84,13 +86,19 @@ This project utilizes [`commitlint`](https://commitlint.js.org/) to enforce [**C
 
 These rules form the basis for our [`CHANGELOG.md`](./CHANGELOG.md) and automatic versioning of releases.
 
+## Editors
+
+Basic configuration for various editors is provided by an [`editorconfig`](https://editorconfig.org/) file.
+
+# CI/CD
+
 ## Git Hooks
 
 We use [`husky`](https://github.com/typicode/husky#readme) and [`lintstaged`](https://github.com/okonet/lint-staged#readme) to enforce those styleguide rules for each commit.
 
-## Editors
+## Travis
 
-Basic configuration for various editors is provided by an [`editorconfig`](https://editorconfig.org/) file.
+[**Travis CI**](https://travis-ci.org/) is configured to lint source files, run all tests and run a build to check pull requests.
 
 # Releasing a new version
 
