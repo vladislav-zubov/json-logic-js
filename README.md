@@ -46,9 +46,9 @@ If the default bundle size is too big for you or you only need certain operation
 import createJsonLogic from './createJsonLogic';
 
 // pick just what you need, or create your own
-import { var, equal } from './operations';
+import { variable, equal } from './operations';
 
-const jsonLogic = createJsonLogic({ var, equal });
+const jsonLogic = createJsonLogic({ variable, equal });
 
 export default jsonLogic;
 ```
