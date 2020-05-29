@@ -4,8 +4,8 @@ const http = require('http');
 const path = require('path');
 const fs = require('fs');
 const glob = require('glob');
+const Ajv = require('ajv');
 const jsonLogic = require('../dist/jsonLogic.js');
-const Ajv = require('./ajv');
 const jsonLogicSchema = require('../schemas/json-logic.json');
 
 const ajv = Ajv({
