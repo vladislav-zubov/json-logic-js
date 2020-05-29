@@ -22,7 +22,7 @@
     "@semantic-release/changelog": "^3.0.6",
     "@semantic-release/git": "^8.0.0",
     "ajv": "^6.12.2",
-    "ajv-cli": "^3.0.0",
+    "ajv-cli": "^3.2.1",
     "cross-env": "^5.2.1",
     "doctoc": "^1.4.0",
     "eslint": "^5.16.0",
