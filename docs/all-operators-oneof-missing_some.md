@@ -15,6 +15,34 @@ Takes a minimum number of data keys that are required, and an array of keys to s
 
 `object` ([missing_some](all-operators-oneof-missing_some.md))
 
+## 2 Examples
+
+```json
+{
+  "missing_some": [
+    1,
+    [
+      "a",
+      "b",
+      "c"
+    ]
+  ]
+}
+```
+
+```json
+{
+  "missing_some": [
+    2,
+    [
+      "a",
+      "b",
+      "c"
+    ]
+  ]
+}
+```
+
 # missing_some Properties
 
 | Property                      | Type    | Required | Nullable       | Defined by                                                                                                                                                |

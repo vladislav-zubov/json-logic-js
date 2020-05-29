@@ -15,6 +15,17 @@ Greater than or equal to.
 
 `object` ([>=](all-operators-oneof--9.md))
 
+## 28 Examples
+
+```json
+{
+  ">=": [
+    1,
+    1
+  ]
+}
+```
+
 # >= Properties
 
 | Property  | Type   | Required | Nullable       | Defined by                                                                                                    |

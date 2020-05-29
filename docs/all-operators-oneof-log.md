@@ -15,6 +15,14 @@ Logs the first value to console, then passes it through unmodified.
 
 `object` ([log](all-operators-oneof-log.md))
 
+## 25 Examples
+
+```json
+{
+  "log": "apple"
+}
+```
+
 # log Properties
 
 | Property    | Type   | Required | Nullable       | Defined by                                                                                                            |

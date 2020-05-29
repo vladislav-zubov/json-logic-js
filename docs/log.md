@@ -15,6 +15,14 @@ Logs the first value to console, then passes it through unmodified.
 
 `object` ([log](log.md))
 
+## log Examples
+
+```json
+{
+  "log": "apple"
+}
+```
+
 # log Properties
 
 | Property    | Type   | Required | Nullable       | Defined by                                                                                                            |

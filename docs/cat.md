@@ -15,6 +15,29 @@ Concatenate all the supplied arguments. Note that this is not a join or implode 
 
 `object` ([cat](cat.md))
 
+## cat Examples
+
+```json
+{
+  "cat": [
+    "I love",
+    " pie"
+  ]
+}
+```
+
+```json
+{
+  "cat": [
+    "I love ",
+    {
+      "var": "filling"
+    },
+    " pie"
+  ]
+}
+```
+
 # cat Properties
 
 | Property    | Type   | Required | Nullable       | Defined by                                                                                                               |

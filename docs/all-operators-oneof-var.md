@@ -15,6 +15,43 @@ Retrieve data from the provided data object.
 
 `object` ([var](all-operators-oneof-var.md))
 
+## 0 Examples
+
+```json
+{
+  "var": [
+    "a"
+  ]
+}
+```
+
+```json
+{
+  "var": [
+    "z",
+    26
+  ]
+}
+```
+
+```json
+{
+  "var": "champ.name"
+}
+```
+
+```json
+{
+  "var": 1
+}
+```
+
+```json
+{
+  "var": ""
+}
+```
+
 # var Properties
 
 | Property    | Type   | Required | Nullable       | Defined by                                                                                            |

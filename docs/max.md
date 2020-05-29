@@ -15,6 +15,18 @@ Return the maximum from a list of values.
 
 `object` ([max](max.md))
 
+## max Examples
+
+```json
+{
+  "max": [
+    1,
+    2,
+    3
+  ]
+}
+```
+
 # max Properties
 
 | Property    | Type   | Required | Nullable       | Defined by                                                                                                               |

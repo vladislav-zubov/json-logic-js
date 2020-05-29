@@ -17,6 +17,28 @@ It can be useful to use {"var":""} to get the entire array element within the te
 
 `object` ([none](all-operators-oneof-none.md))
 
+## 12 Examples
+
+```json
+{
+  "none": [
+    [
+      -3,
+      -2,
+      -1
+    ],
+    {
+      ">": [
+        {
+          "var": ""
+        },
+        0
+      ]
+    }
+  ]
+}
+```
+
 # none Properties
 
 | Property      | Type   | Required | Nullable       | Defined by                                                                                                        |

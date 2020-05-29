@@ -15,6 +15,26 @@ You can use filter to keep only elements of the array that pass a test. Note, th
 
 `object` ([filter](var-oneof-filter.md))
 
+## 3 Examples
+
+```json
+{
+  "filter": [
+    {
+      "var": "integers"
+    },
+    {
+      "%": [
+        {
+          "var": ""
+        },
+        2
+      ]
+    }
+  ]
+}
+```
+
 # filter Properties
 
 | Property          | Type   | Required | Nullable       | Defined by                                                                                                            |

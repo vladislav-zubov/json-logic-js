@@ -20,6 +20,46 @@ Give a negative length to stop that many characters before the end.
 
 `object` ([substr](substr.md))
 
+## substr Examples
+
+```json
+{
+  "substr": [
+    "jsonlogic",
+    4
+  ]
+}
+```
+
+```json
+{
+  "substr": [
+    "jsonlogic",
+    -5
+  ]
+}
+```
+
+```json
+{
+  "substr": [
+    "jsonlogic",
+    1,
+    3
+  ]
+}
+```
+
+```json
+{
+  "substr": [
+    "jsonlogic",
+    4,
+    -2
+  ]
+}
+```
+
 # substr Properties
 
 | Property          | Type   | Required | Nullable       | Defined by                                                                                                                  |

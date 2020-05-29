@@ -17,6 +17,46 @@ It can be useful to use {"var":""} to get the entire array element within the te
 
 `object` ([some](some.md))
 
+## some Examples
+
+```json
+{
+  "some": [
+    [
+      -1,
+      0,
+      1
+    ],
+    {
+      ">": [
+        {
+          "var": ""
+        },
+        0
+      ]
+    }
+  ]
+}
+```
+
+```json
+{
+  "some": [
+    {
+      "var": "pies"
+    },
+    {
+      "==": [
+        {
+          "var": "filling"
+        },
+        "apple"
+      ]
+    }
+  ]
+}
+```
+
 # some Properties
 
 | Property      | Type   | Required | Nullable       | Defined by                                                                                                        |

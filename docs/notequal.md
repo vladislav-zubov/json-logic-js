@@ -15,6 +15,26 @@ Tests not-equal, with type coercion. Requires two arguments.
 
 `object` ([Not-Equal](notequal.md))
 
+## Not-Equal Examples
+
+```json
+{
+  "!=": [
+    1,
+    2
+  ]
+}
+```
+
+```json
+{
+  "!=": [
+    1,
+    "1"
+  ]
+}
+```
+
 # Not-Equal Properties
 
 | Property  | Type   | Required | Nullable       | Defined by                                                                                                           |

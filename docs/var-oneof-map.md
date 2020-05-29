@@ -15,6 +15,26 @@ You can use map to perform an action on every member of an array. Note, that ins
 
 `object` ([map](var-oneof-map.md))
 
+## 1 Examples
+
+```json
+{
+  "map": [
+    {
+      "var": "integers"
+    },
+    {
+      "*": [
+        {
+          "var": ""
+        },
+        2
+      ]
+    }
+  ]
+}
+```
+
 # map Properties
 
 | Property    | Type   | Required | Nullable       | Defined by                                                                                                      |

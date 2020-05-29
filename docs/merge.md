@@ -15,6 +15,36 @@ Takes one or more arrays, and merges them into one array. If arguments aren’t 
 
 `object` ([merge](merge.md))
 
+## merge Examples
+
+```json
+{
+  "merge": [
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      4
+    ]
+  ]
+}
+```
+
+```json
+{
+  "merge": [
+    1,
+    2,
+    [
+      3,
+      4
+    ]
+  ]
+}
+```
+
 # merge Properties
 
 | Property        | Type   | Required | Nullable       | Defined by                                                                                                                   |

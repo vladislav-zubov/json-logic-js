@@ -15,6 +15,17 @@ Greater than.
 
 `object` ([>](greater.md))
 
+## > Examples
+
+```json
+{
+  ">": [
+    2,
+    1
+  ]
+}
+```
+
 # > Properties
 
 | Property | Type   | Required | Nullable       | Defined by                                                                                                  |

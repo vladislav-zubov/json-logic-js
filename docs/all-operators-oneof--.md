@@ -15,6 +15,29 @@ Subtraction. Passing just one argument to - returns its arithmetic negative (add
 
 `object` ([-](all-operators-oneof--.md))
 
+## 7 Examples
+
+```json
+{
+  "-": [
+    4,
+    2
+  ]
+}
+```
+
+```json
+{
+  "-": 2
+}
+```
+
+```json
+{
+  "-": -2
+}
+```
+
 # - Properties
 
 | Property | Type   | Required | Nullable       | Defined by                                                                                                  |

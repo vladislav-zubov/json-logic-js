@@ -18,6 +18,29 @@ You can use reduce to combine all the elements in an array into a single value, 
 
 `object` ([reduce](var-oneof-reduce.md))
 
+## 4 Examples
+
+```json
+{
+  "reduce": [
+    {
+      "var": "integers"
+    },
+    {
+      "+": [
+        {
+          "var": "current"
+        },
+        {
+          "var": "accumulator"
+        }
+      ]
+    },
+    0
+  ]
+}
+```
+
 # reduce Properties
 
 | Property          | Type   | Required | Nullable       | Defined by                                                                                                                  |

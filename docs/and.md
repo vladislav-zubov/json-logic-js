@@ -15,6 +15,46 @@ and can be used for simple boolean tests, with 1 or more arguments. At a more so
 
 `object` ([and](and.md))
 
+## and Examples
+
+```json
+{
+  "and": [
+    true,
+    true
+  ]
+}
+```
+
+```json
+{
+  "and": [
+    true,
+    false
+  ]
+}
+```
+
+```json
+{
+  "and": [
+    true,
+    "a",
+    3
+  ]
+}
+```
+
+```json
+{
+  "and": [
+    true,
+    "",
+    3
+  ]
+}
+```
+
 # and Properties
 
 | Property    | Type   | Required | Nullable       | Defined by                                                                                                               |

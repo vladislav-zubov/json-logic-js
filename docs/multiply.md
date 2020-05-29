@@ -15,6 +15,29 @@ Multiplication. Because multiplication is associative, it happily take as many a
 
 `object` ([\*](multiply.md))
 
+## \* Examples
+
+```json
+{
+  "*": [
+    4,
+    2
+  ]
+}
+```
+
+```json
+{
+  "*": [
+    2,
+    2,
+    2,
+    2,
+    2
+  ]
+}
+```
+
 # \* Properties
 
 | Property | Type   | Required | Nullable       | Defined by                                                                                                             |

@@ -15,6 +15,17 @@ Module. Finds the remainder after the first argument is divided by the second ar
 
 `object` ([%](modulo.md))
 
+## % Examples
+
+```json
+{
+  "%": [
+    101,
+    2
+  ]
+}
+```
+
 # % Properties
 
 | Property | Type   | Required | Nullable       | Defined by                                                                                                  |

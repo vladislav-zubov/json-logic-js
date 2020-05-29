@@ -15,6 +15,26 @@ Tests strict not-equal. Requires two arguments.
 
 `object` ([Strict Not-Equal](strictnotequal.md))
 
+## Strict Not-Equal Examples
+
+```json
+{
+  "!==": [
+    1,
+    2
+  ]
+}
+```
+
+```json
+{
+  "!==": [
+    1,
+    "1"
+  ]
+}
+```
+
 # Strict Not-Equal Properties
 
 | Property    | Type   | Required | Nullable       | Defined by                                                                                                                   |

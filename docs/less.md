@@ -15,6 +15,39 @@ Less than. You can use a special case of &lt; to test that one value is exclusiv
 
 `object` ([&lt;](less.md))
 
+## &lt; Examples
+
+```json
+{
+  "<": [
+    1,
+    2
+  ]
+}
+```
+
+```json
+{
+  "<": [
+    1,
+    2,
+    3
+  ]
+}
+```
+
+```json
+{
+  "<": [
+    0,
+    {
+      "var": "temp"
+    },
+    100
+  ]
+}
+```
+
 # &lt; Properties
 
 | Property   | Type   | Required | Nullable       | Defined by                                                                                                              |
