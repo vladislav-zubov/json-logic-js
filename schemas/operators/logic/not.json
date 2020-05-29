@@ -12,5 +12,9 @@
     "!": {
       "$ref": "http://jsonlogic.com/schemas/common/unary-arg.json"
     }
-  }
+  },
+  "examples": [
+    { "!": [true] },
+    { "!": true }
+  ]
 }

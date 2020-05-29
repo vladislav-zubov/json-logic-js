@@ -12,5 +12,8 @@
     "max": {
       "$ref": "http://jsonlogic.com/schemas/common/one-or-more-args.json"
     }
-  }
+  },
+  "examples": [
+    { "max": [1,2,3] }
+  ]
 }

@@ -12,5 +12,10 @@
     "-": {
       "$ref": "http://jsonlogic.com/schemas/common/binary-args.json"
     }
-  }
+  },
+  "examples": [
+    { "-": [4, 2] },
+    { "-": 2 },
+    { "-": -2 }
+  ]
 }

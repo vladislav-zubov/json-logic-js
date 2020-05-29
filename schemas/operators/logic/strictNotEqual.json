@@ -12,5 +12,9 @@
     "!==": {
       "$ref": "http://jsonlogic.com/schemas/common/binary-args.json"
     }
-  }
+  },
+  "examples": [
+    { "!==": [1, 2] },
+    { "!==": [1, "1"] }
+  ]
 }

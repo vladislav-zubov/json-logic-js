@@ -11,5 +11,12 @@
     "var": {
       "$ref": "http://jsonlogic.com/schemas/common/var.json"
     }
-  }
+  },
+  "examples": [
+    { "var": ["a"] },
+    { "var": ["z", 26] },
+    { "var": "champ.name" },
+    { "var": 1 },
+    { "var": "" }
+  ]
 }

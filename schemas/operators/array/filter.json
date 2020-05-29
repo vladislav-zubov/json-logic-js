@@ -11,5 +11,11 @@
     "filter": {
       "$ref": "http://jsonlogic.com/schemas/common/binary-args.json"
     }
-  }
+  },
+  "examples": [
+    { "filter": [
+      { "var": "integers" },
+      { "%": [{ "var": "" }, 2] }
+    ]}
+  ]
 }

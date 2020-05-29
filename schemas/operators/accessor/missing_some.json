@@ -24,5 +24,9 @@
         }
       ]
     }
-  }
+  },
+  "examples": [
+    { "missing_some": [1, ["a", "b", "c"]] },
+    { "missing_some": [2, ["a", "b", "c"]] }
+  ]
 }

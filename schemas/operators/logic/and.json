@@ -12,5 +12,11 @@
     "and": {
       "$ref": "http://jsonlogic.com/schemas/common/one-or-more-args.json"
     }
-  }
+  },
+  "examples": [
+    { "and": [true, true] },
+    { "and": [true, false] },
+    { "and": [true, "a", 3] },
+    { "and": [true, "", 3] }
+  ]
 }

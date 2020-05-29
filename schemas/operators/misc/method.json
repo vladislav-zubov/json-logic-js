@@ -11,5 +11,9 @@
     "method": {
       "$ref": "http://jsonlogic.com/schemas/common/one-or-more-args.json"
     }
-  }
+  },
+  "examples": [
+    { "method": [{"var":"today"}, "getDay"] },
+    { "method": ["automaton", "slice", [ 2, 8 ]] }
+  ]
 }

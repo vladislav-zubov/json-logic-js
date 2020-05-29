@@ -11,5 +11,11 @@
     "map": {
       "$ref": "http://jsonlogic.com/schemas/common/binary-args.json"
     }
-  }
+  },
+  "examples": [
+    { "map": [
+      { "var": "integers" },
+      { "*": [{ "var": "" }, 2] }
+    ]}
+  ]
 }

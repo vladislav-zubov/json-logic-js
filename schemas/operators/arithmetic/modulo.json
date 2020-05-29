@@ -12,5 +12,8 @@
     "%": {
       "$ref": "http://jsonlogic.com/schemas/common/binary-args.json"
     }
-  }
+  },
+  "examples": [
+    { "%": [101, 2] }
+  ]
 }

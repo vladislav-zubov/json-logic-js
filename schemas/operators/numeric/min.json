@@ -12,5 +12,8 @@
     "min": {
       "$ref": "http://jsonlogic.com/schemas/common/one-or-more-args.json"
     }
-  }
+  },
+  "examples": [
+    { "min": [1,2,3] }
+  ]
 }

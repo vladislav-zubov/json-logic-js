@@ -12,5 +12,11 @@
     "or": {
       "$ref": "http://jsonlogic.com/schemas/common/one-or-more-args.json"
     }
-  }
+  },
+  "examples": [
+    { "or": [true, false] },
+    { "or": [false, true] },
+    { "or": [false, "a"] },
+    { "or": [false, 0, "a"] }
+  ]
 }

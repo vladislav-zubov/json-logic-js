@@ -11,5 +11,8 @@
     "log": {
       "$ref": "http://jsonlogic.com/schemas/common/any.json"
     }
-  }
+  },
+  "examples": [
+    { "log": "apple" }
+  ]
 }

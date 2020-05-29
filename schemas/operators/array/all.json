@@ -11,5 +11,8 @@
     "all": {
       "$ref": "http://jsonlogic.com/schemas/common/binary-args.json"
     }
-  }
+  },
+  "examples": [
+    { "all": [ [1, 2, 3], { ">": [{ "var": "" }, 0] } ] }
+  ]
 }

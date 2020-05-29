@@ -11,5 +11,13 @@
     "missing": {
       "$ref": "http://jsonlogic.com/schemas/common/var.json"
     }
-  }
+  },
+  "examples": [
+    { "missing": ["a", "b"] },
+    { "if": [
+      { "missing": ["a", "b"] },
+      "'a' and/or 'b' are missing",
+      "OK to proceed"
+    ]}
+  ]
 }

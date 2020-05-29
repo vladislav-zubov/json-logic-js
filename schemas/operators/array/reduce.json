@@ -11,5 +11,12 @@
     "reduce": {
       "$ref": "http://jsonlogic.com/schemas/common/trinary-args.json"
     }
-  }
+  },
+  "examples": [
+    { "reduce": [
+      { "var": "integers" },
+      { "+": [{ "var": "current" }, { "var": "accumulator" }] },
+      0
+    ]}
+  ]
 }

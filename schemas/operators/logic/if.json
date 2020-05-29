@@ -26,5 +26,14 @@
         }
       }
     }
+  ],
+  "examples": [
+    { "if": [true, "yes", "no"] },
+    { "if": [false, "yes", "no"] },
+    { "if": [
+      { "<": [{"var":"temp"}, 0] }, "freezing",
+      { "<": [{"var":"temp"}, 100] }, "liquid",
+      "gas"
+    ]}
   ]
 }

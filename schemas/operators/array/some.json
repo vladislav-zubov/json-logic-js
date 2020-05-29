@@ -11,5 +11,9 @@
     "some": {
       "$ref": "http://jsonlogic.com/schemas/common/binary-args.json"
     }
-  }
+  },
+  "examples": [
+    { "some": [ [-1, 0, 1], { ">": [{ "var": "" }, 0] } ]},
+    { "some": [{ "var": "pies" }, { "==": [{ "var": "filling" }, "apple"] } ] }
+  ]
 }

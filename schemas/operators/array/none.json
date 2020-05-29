@@ -11,5 +11,8 @@
     "none": {
       "$ref": "http://jsonlogic.com/schemas/common/binary-args.json"
     }
-  }
+  },
+  "examples": [
+    { "none": [ [-3, -2, -1], { ">": [{ "var": "" }, 0] } ]}
+  ]
 }

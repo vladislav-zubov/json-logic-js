@@ -11,5 +11,9 @@
     "merge": {
       "$ref": "http://jsonlogic.com/schemas/common/one-or-more-args.json"
     }
-  }
+  },
+  "examples": [
+    { "merge": [ [1,2], [3,4] ] },
+    { "merge": [ 1, 2, [3,4] ] }
+  ]
 }

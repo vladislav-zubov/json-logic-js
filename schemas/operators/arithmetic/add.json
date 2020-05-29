@@ -12,5 +12,10 @@
     "+": {
       "$ref": "http://jsonlogic.com/schemas/common/one-or-more-args.json"
     }
-  }
+  },
+  "examples": [
+    { "+": [4, 2] },
+    { "+": [2, 2, 2, 2, 2] },
+    { "+": "3.14" }
+  ]
 }

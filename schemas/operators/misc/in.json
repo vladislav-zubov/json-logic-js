@@ -11,5 +11,8 @@
     "in": {
       "$ref": "http://jsonlogic.com/schemas/common/binary-args.json"
     }
-  }
+  },
+  "examples": [
+    { "in": ["Spring", "Springfield"] }
+  ]
 }

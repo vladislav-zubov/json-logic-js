@@ -11,5 +11,9 @@
     "cat": {
       "$ref": "http://jsonlogic.com/schemas/common/one-or-more-args.json"
     }
-  }
+  },
+  "examples": [
+    { "cat": ["I love", " pie"] },
+    { "cat": ["I love ", {"var":"filling"}, " pie"] }
+  ]
 }
