@@ -8,10 +8,7 @@ const Ajv = require('ajv');
 const jsonLogic = require('../dist/jsonLogic.js');
 const jsonLogicSchema = require('../schemas/json-logic.json');
 
-const ajv = Ajv({
-  // avoid no schema with key or ref "http://json-schema.org/draft-04/schema"
-  validateSchema: false,
-});
+const ajv = Ajv();
 
 const cwd = __dirname;
 glob.sync('../schemas/**/*.json', { cwd }).forEach(file => {
