@@ -5,7 +5,7 @@ const path = require('path');
 const fs = require('fs');
 const glob = require('glob');
 const jsonLogic = require('../dist/jsonLogic.js');
-const Ajv = require('./ajv4');
+const Ajv = require('./ajv');
 const jsonLogicSchema = require('../schemas/json-logic.json');
 
 const ajv = Ajv({
