@@ -1,5 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "http://jsonlogic.com/schemas/operators/logic/if.json",
 
   "title": "if",
@@ -26,5 +26,14 @@
         }
       }
     }
+  ],
+  "examples": [
+    { "if": [true, "yes", "no"] },
+    { "if": [false, "yes", "no"] },
+    { "if": [
+      { "<": [{"var":"temp"}, 0] }, "freezing",
+      { "<": [{"var":"temp"}, 100] }, "liquid",
+      "gas"
+    ]}
   ]
 }

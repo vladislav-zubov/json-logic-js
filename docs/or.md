@@ -15,6 +15,45 @@ or can be used for simple boolean tests, with 1 or more arguments. At a more sop
 
 `object` ([or](or.md))
 
+## or Examples
+
+```json
+{
+  "or": [
+    true,
+    false
+  ]
+}
+```
+
+```json
+{
+  "or": [
+    false,
+    true
+  ]
+}
+```
+
+```json
+{
+  "or": [
+    false,
+    "a"
+  ]
+}
+```
+
+```json
+{
+  "or": [
+    false,
+    0,
+    "a"
+  ]
+}
+```
+
 # or Properties
 
 | Property  | Type   | Required | Nullable       | Defined by                                                                                                             |

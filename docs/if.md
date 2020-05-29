@@ -20,3 +20,51 @@ one (and only one) of
 
 -   [Untitled object in if](if-oneof-0.md "check type definition")
 -   [Untitled object in if](if-oneof-1.md "check type definition")
+
+## if Examples
+
+```json
+{
+  "if": [
+    true,
+    "yes",
+    "no"
+  ]
+}
+```
+
+```json
+{
+  "if": [
+    false,
+    "yes",
+    "no"
+  ]
+}
+```
+
+```json
+{
+  "if": [
+    {
+      "<": [
+        {
+          "var": "temp"
+        },
+        0
+      ]
+    },
+    "freezing",
+    {
+      "<": [
+        {
+          "var": "temp"
+        },
+        100
+      ]
+    },
+    "liquid",
+    "gas"
+  ]
+}
+```

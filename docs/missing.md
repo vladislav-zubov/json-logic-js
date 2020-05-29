@@ -15,6 +15,32 @@ Takes an array of data keys to search for (same format as var). Returns an array
 
 `object` ([missing](missing.md))
 
+## missing Examples
+
+```json
+{
+  "missing": [
+    "a",
+    "b"
+  ]
+}
+```
+
+```json
+{
+  "if": [
+    {
+      "missing": [
+        "a",
+        "b"
+      ]
+    },
+    "'a' and/or 'b' are missing",
+    "OK to proceed"
+  ]
+}
+```
+
 # missing Properties
 
 | Property            | Type   | Required | Nullable       | Defined by                                                                                                    |

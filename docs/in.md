@@ -16,6 +16,17 @@ If the second argument is a string, tests that the first argument is a substring
 
 `object` ([in](in.md))
 
+## in Examples
+
+```json
+{
+  "in": [
+    "Spring",
+    "Springfield"
+  ]
+}
+```
+
 # in Properties
 
 | Property  | Type   | Required | Nullable       | Defined by                                                                                                    |

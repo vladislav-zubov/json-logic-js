@@ -1,5 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "http://jsonlogic.com/schemas/operators/accessor/variable.json",
 
   "title": "var",
@@ -11,5 +11,12 @@
     "var": {
       "$ref": "http://jsonlogic.com/schemas/common/var.json"
     }
-  }
+  },
+  "examples": [
+    { "var": ["a"] },
+    { "var": ["z", 26] },
+    { "var": "champ.name" },
+    { "var": 1 },
+    { "var": "" }
+  ]
 }

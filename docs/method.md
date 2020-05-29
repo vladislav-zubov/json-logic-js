@@ -16,6 +16,32 @@ If your rule needs to call a method on an object, you can use the built-in metho
 
 `object` ([method](method.md))
 
+## method Examples
+
+```json
+{
+  "method": [
+    {
+      "var": "today"
+    },
+    "getDay"
+  ]
+}
+```
+
+```json
+{
+  "method": [
+    "automaton",
+    "slice",
+    [
+      2,
+      8
+    ]
+  ]
+}
+```
+
 # method Properties
 
 | Property          | Type   | Required | Nullable       | Defined by                                                                                                                     |

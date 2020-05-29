@@ -1,0 +1,16 @@
+# Untitled undefined type in none Schema
+
+```txt
+http://jsonlogic.com/schemas/operators/array/none.json#/examples/0/none/1/>/0
+```
+
+
+
+
+| Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                      |
+| :------------------ | ---------- | -------------- | ----------------------- | :---------------- | --------------------- | ------------------- | --------------------------------------------------------------- |
+| Can be instantiated | No         | Unknown status | Unknown identifiability | Forbidden         | Allowed               | none                | [none.json\*](operators/array/none.json "open original schema") |
+
+## 0 Type
+
+unknown

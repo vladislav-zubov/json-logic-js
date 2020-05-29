@@ -15,6 +15,22 @@ Logical negation (“not”). Takes just one argument.
 
 `object` ([!](all-operators-oneof-.md))
 
+## 18 Examples
+
+```json
+{
+  "!": [
+    true
+  ]
+}
+```
+
+```json
+{
+  "!": true
+}
+```
+
 # ! Properties
 
 | Property | Type   | Required | Nullable       | Defined by                                                                                               |

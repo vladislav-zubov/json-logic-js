@@ -15,6 +15,17 @@ Division.
 
 `object` ([/](all-operators-oneof--5.md))
 
+## 4 Examples
+
+```json
+{
+  "/": [
+    4,
+    2
+  ]
+}
+```
+
 # / Properties
 
 | Property | Type   | Required | Nullable       | Defined by                                                                                                  |

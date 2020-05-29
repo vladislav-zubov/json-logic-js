@@ -15,6 +15,24 @@ Double negation, or “cast to a boolean.” Takes a single argument.
 
 `object` ([!!](notnot.md))
 
+## !! Examples
+
+```json
+{
+  "!!": [
+    []
+  ]
+}
+```
+
+```json
+{
+  "!!": [
+    "0"
+  ]
+}
+```
+
 # !! Properties
 
 | Property  | Type   | Required | Nullable       | Defined by                                                                                                 |

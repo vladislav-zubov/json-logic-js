@@ -15,6 +15,26 @@ Tests strict equality. Requires two arguments.
 
 `object` ([Strict Equal](all-operators-oneof-strict-equal.md))
 
+## 22 Examples
+
+```json
+{
+  "===": [
+    1,
+    1
+  ]
+}
+```
+
+```json
+{
+  "===": [
+    1,
+    "1"
+  ]
+}
+```
+
 # Strict Equal Properties
 
 | Property    | Type   | Required | Nullable       | Defined by                                                                                                               |

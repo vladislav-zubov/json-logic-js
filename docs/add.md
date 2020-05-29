@@ -15,6 +15,35 @@ Addition. Because addition is associative, it happily take as many args as you w
 
 `object` ([+](add.md))
 
+## + Examples
+
+```json
+{
+  "+": [
+    4,
+    2
+  ]
+}
+```
+
+```json
+{
+  "+": [
+    2,
+    2,
+    2,
+    2,
+    2
+  ]
+}
+```
+
+```json
+{
+  "+": "3.14"
+}
+```
+
 # + Properties
 
 | Property | Type   | Required | Nullable       | Defined by                                                                                                           |

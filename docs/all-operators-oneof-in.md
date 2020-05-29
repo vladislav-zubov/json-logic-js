@@ -16,6 +16,17 @@ If the second argument is a string, tests that the first argument is a substring
 
 `object` ([in](all-operators-oneof-in.md))
 
+## 24 Examples
+
+```json
+{
+  "in": [
+    "Spring",
+    "Springfield"
+  ]
+}
+```
+
 # in Properties
 
 | Property  | Type   | Required | Nullable       | Defined by                                                                                                    |

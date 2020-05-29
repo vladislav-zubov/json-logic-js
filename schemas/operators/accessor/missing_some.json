@@ -1,5 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "http://jsonlogic.com/schemas/operators/accessor/missing_some.json",
 
   "title": "missing_some",
@@ -24,5 +24,9 @@
         }
       ]
     }
-  }
+  },
+  "examples": [
+    { "missing_some": [1, ["a", "b", "c"]] },
+    { "missing_some": [2, ["a", "b", "c"]] }
+  ]
 }

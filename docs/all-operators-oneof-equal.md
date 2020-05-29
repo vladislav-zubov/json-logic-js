@@ -15,6 +15,35 @@ Tests equality, with type coercion. Requires two arguments.
 
 `object` ([Equal](all-operators-oneof-equal.md))
 
+## 16 Examples
+
+```json
+{
+  "==": [
+    1,
+    1
+  ]
+}
+```
+
+```json
+{
+  "==": [
+    1,
+    "1"
+  ]
+}
+```
+
+```json
+{
+  "==": [
+    0,
+    false
+  ]
+}
+```
+
 # Equal Properties
 
 | Property  | Type   | Required | Nullable       | Defined by                                                                                                       |

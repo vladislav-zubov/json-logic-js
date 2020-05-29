@@ -15,6 +15,18 @@ Return the minimum from a list of values.
 
 `object` ([min](min.md))
 
+## min Examples
+
+```json
+{
+  "min": [
+    1,
+    2,
+    3
+  ]
+}
+```
+
 # min Properties
 
 | Property    | Type   | Required | Nullable       | Defined by                                                                                                               |

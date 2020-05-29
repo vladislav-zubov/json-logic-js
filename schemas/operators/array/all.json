@@ -1,5 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "http://jsonlogic.com/schemas/operators/array/all.json",
 
   "title": "all",
@@ -11,5 +11,8 @@
     "all": {
       "$ref": "http://jsonlogic.com/schemas/common/binary-args.json"
     }
-  }
+  },
+  "examples": [
+    { "all": [ [1, 2, 3], { ">": [{ "var": "" }, 0] } ] }
+  ]
 }

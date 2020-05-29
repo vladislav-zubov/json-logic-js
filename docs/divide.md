@@ -15,6 +15,17 @@ Division.
 
 `object` ([/](divide.md))
 
+## / Examples
+
+```json
+{
+  "/": [
+    4,
+    2
+  ]
+}
+```
+
 # / Properties
 
 | Property | Type   | Required | Nullable       | Defined by                                                                                                  |

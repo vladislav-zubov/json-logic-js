@@ -17,8 +17,8 @@ You can also use var with an empty string to get the entire data object – whic
 
 ## 6 Constraints
 
-**enum**: the value of this property must be equal to one of the following values:
+**constant**: the value of this property must be equal to:
 
-| Value | Explanation |
-| :---- | ----------- |
-| `""`  |             |
+```json
+""
+```
