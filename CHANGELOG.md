@@ -1,3 +1,10 @@
+## [2.2.2](https://github.com/axa-ch/json-logic-js/compare/v2.2.1...v2.2.2) (2020-05-29)
+
+
+### Bug Fixes
+
+* upgraded @adobe/jsonschema2md@4.0.12 ([e07c535](https://github.com/axa-ch/json-logic-js/commit/e07c5359857c2f0b16d07c39cb9483c7d3b407c8))
+
 ## [2.2.1](https://github.com/axa-ch/json-logic-js/compare/v2.2.0...v2.2.1) (2020-01-27)
 
 
