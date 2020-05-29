@@ -33,7 +33,7 @@
     },
     {
       "type": "string",
-      "enum": [""],
+      "const": "",
       "title": "Entire data object",
       "description": "You can also use var with an empty string to get the entire data object – which is really useful in map, filter, and reduce rules."
     },
