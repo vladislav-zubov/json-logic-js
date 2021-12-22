@@ -1,7 +1,7 @@
 # missing Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/accessor/missing.json#/oneOf/1
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/accessor/missing.json#/oneOf/1
 ```
 
 Takes an array of data keys to search for (same format as var). Returns an array of any keys that are missing from the data object, or an empty array.

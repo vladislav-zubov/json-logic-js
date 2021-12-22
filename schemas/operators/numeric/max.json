@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "http://jsonlogic.com/schemas/operators/numeric/max.json",
+  "$id": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/numeric/max.json",
 
   "title": "max",
   "description": "Return the maximum from a list of values.",
@@ -10,7 +10,7 @@
   "required": ["max"],
   "properties": {
     "max": {
-      "$ref": "http://jsonlogic.com/schemas/common/one-or-more-args.json"
+      "$ref": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/one-or-more-args.json"
     }
   },
   "examples": [

@@ -1,7 +1,7 @@
 # some Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/array/some.json#/oneOf/14
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/array/some.json#/oneOf/14
 ```
 
 These operations take an array, and perform a test on each member of that array.

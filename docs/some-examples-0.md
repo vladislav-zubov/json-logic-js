@@ -1,7 +1,7 @@
 # Untitled undefined type in some Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/array/some.json#/examples/0
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/array/some.json#/examples/0
 ```
 
 

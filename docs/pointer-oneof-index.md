@@ -1,7 +1,7 @@
 # Index Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/pointer.json#/oneOf/1
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/pointer.json#/oneOf/1
 ```
 
 You can also use the var operator to access an array by numeric index.

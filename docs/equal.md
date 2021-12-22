@@ -1,7 +1,7 @@
 # Equal Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/logic/equal.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/logic/equal.json
 ```
 
 Tests equality, with type coercion. Requires two arguments.

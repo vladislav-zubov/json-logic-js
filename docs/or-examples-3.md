@@ -1,7 +1,7 @@
 # Untitled undefined type in or Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/logic/or.json#/examples/3
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/logic/or.json#/examples/3
 ```
 
 

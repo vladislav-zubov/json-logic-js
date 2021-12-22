@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "http://jsonlogic.com/schemas/operators/arithmetic/subtract.json",
+  "$id": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/arithmetic/subtract.json",
 
   "title": "-",
   "description": "Subtraction. Passing just one argument to - returns its arithmetic negative (additive inverse).",
@@ -10,7 +10,7 @@
   "required": ["-"],
   "properties": {
     "-": {
-      "$ref": "http://jsonlogic.com/schemas/common/binary-args.json"
+      "$ref": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/binary-args.json"
     }
   },
   "examples": [

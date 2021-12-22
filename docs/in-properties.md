@@ -1,7 +1,7 @@
 # Untitled undefined type in in Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/misc/in.json#/properties
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/misc/in.json#/properties
 ```
 
 

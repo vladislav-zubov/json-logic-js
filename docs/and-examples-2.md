@@ -1,7 +1,7 @@
 # Untitled undefined type in and Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/logic/and.json#/examples/2
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/logic/and.json#/examples/2
 ```
 
 

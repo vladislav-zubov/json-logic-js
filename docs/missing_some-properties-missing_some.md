@@ -1,7 +1,7 @@
 # Untitled array in missing_some Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/accessor/missing_some.json#/properties/missing_some
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/accessor/missing_some.json#/properties/missing_some
 ```
 
 

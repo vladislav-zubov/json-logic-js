@@ -1,7 +1,7 @@
 # log Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/misc/log.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/misc/log.json
 ```
 
 Logs the first value to console, then passes it through unmodified.

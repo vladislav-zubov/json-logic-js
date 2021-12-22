@@ -1,7 +1,7 @@
 # Strict Equal Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/logic/strictEqual.json#/oneOf/22
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/logic/strictEqual.json#/oneOf/22
 ```
 
 Tests strict equality. Requires two arguments.

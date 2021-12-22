@@ -1,7 +1,7 @@
 # \* Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/arithmetic/multiply.json#/oneOf/6
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/arithmetic/multiply.json#/oneOf/6
 ```
 
 Multiplication. Because multiplication is associative, it happily take as many args as you want.

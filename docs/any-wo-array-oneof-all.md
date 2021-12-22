@@ -1,7 +1,7 @@
 # All Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/all-types-wo-array.json#/oneOf/1
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/all-types-wo-array.json#/oneOf/1
 ```
 
 Any valid JSON data type, except array primitive.

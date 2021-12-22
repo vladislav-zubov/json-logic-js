@@ -1,7 +1,7 @@
 # Non-Logic multiple key object. Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/no-logic-object.json#/oneOf/2
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/no-logic-object.json#/oneOf/2
 ```
 
 

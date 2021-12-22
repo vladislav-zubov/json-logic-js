@@ -1,7 +1,7 @@
 # Need-Count Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/accessor/missing_some.json#/properties/missing_some/items/0
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/accessor/missing_some.json#/properties/missing_some/items/0
 ```
 
 Takes a minimum number of data keys that are required

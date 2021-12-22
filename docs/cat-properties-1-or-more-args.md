@@ -1,7 +1,7 @@
 # 1 or more args Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/one-or-more-args.json#/properties/cat
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/one-or-more-args.json#/properties/cat
 ```
 
 With 1 or more arguments.

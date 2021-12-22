@@ -1,7 +1,7 @@
 # > Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/numeric/greater.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/numeric/greater.json
 ```
 
 Greater than.

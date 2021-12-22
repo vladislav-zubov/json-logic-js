@@ -1,7 +1,7 @@
 # Untitled undefined type in if Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/logic/if.json#/examples/2/if/0/</0
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/logic/if.json#/examples/2/if/0/</0
 ```
 
 

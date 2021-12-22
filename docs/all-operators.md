@@ -1,7 +1,7 @@
 # All Operators Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/all-operators.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/all-operators.json
 ```
 
 Any valid JSON Logic data source, expect primitive types.

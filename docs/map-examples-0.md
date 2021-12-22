@@ -1,7 +1,7 @@
 # Untitled undefined type in map Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/array/map.json#/examples/0
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/array/map.json#/examples/0
 ```
 
 

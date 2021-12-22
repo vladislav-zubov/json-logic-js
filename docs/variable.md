@@ -1,7 +1,7 @@
 # var Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/accessor/variable.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/accessor/variable.json
 ```
 
 Retrieve data from the provided data object.

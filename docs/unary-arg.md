@@ -1,7 +1,7 @@
 # Unary Arg Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/unary-arg.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/unary-arg.json
 ```
 
 Only one valid JSON Logic data source.

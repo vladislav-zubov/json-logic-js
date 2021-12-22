@@ -1,7 +1,7 @@
 # all Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/array/all.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/array/all.json
 ```
 
 These operations take an array, and perform a test on each member of that array.

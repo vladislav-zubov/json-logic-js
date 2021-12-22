@@ -1,7 +1,7 @@
 # Single Array Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/unary-arg.json#/oneOf/0
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/unary-arg.json#/oneOf/0
 ```
 
 An array with just one element.

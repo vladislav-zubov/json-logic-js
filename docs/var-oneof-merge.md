@@ -1,7 +1,7 @@
 # merge Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/array/merge.json#/oneOf/2
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/array/merge.json#/oneOf/2
 ```
 
 Takes one or more arrays, and merges them into one array. If arguments aren’t arrays, they get cast to arrays.

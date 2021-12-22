@@ -1,7 +1,7 @@
 # &lt;= Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/numeric/lessEqual.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/numeric/lessEqual.json
 ```
 
 Less than or equal to. You can use a special case of &lt;= to test that one value is inclusively between two others.

@@ -1,7 +1,7 @@
 # if Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/logic/if.json#/oneOf/0/items/0/oneOf/1
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/logic/if.json#/oneOf/0/items/0/oneOf/1
 ```
 
 The if statement typically takes 3 arguments: a condition (if), what to do if it’s true (then), and what to do if it’s false (else), like: {"if" : [ true, "yes", "no" ]}.

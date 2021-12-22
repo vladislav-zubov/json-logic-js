@@ -1,7 +1,7 @@
 # JSON-Logic Schema Schema
 
 ```txt
-http://jsonlogic.com/schemas/json-logic.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/json-logic.json
 ```
 
 Build complex rules, serialize them as JSON, share them between front-end and back-end.

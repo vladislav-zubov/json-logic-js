@@ -1,7 +1,7 @@
 # Untitled undefined type in none Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/array/none.json#/examples/0/none/1
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/array/none.json#/examples/0/none/1
 ```
 
 

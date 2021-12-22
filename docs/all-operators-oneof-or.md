@@ -1,7 +1,7 @@
 # or Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/logic/or.json#/oneOf/21
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/logic/or.json#/oneOf/21
 ```
 
 or can be used for simple boolean tests, with 1 or more arguments. At a more sophisticated level, or returns the first truthy argument, or the last argument.

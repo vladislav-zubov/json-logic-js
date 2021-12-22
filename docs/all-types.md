@@ -1,7 +1,7 @@
 # All Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/all-types.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/all-types.json
 ```
 
 Any valid JSON data type.

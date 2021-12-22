@@ -1,7 +1,7 @@
 # Untitled object in No-Logic Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/no-logic-object.json#/oneOf/1/allOf/1/not
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/no-logic-object.json#/oneOf/1/allOf/1/not
 ```
 
 

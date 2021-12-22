@@ -1,7 +1,7 @@
 # Untitled undefined type in All Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/all-types-wo-array.json#/oneOf/0
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/all-types-wo-array.json#/oneOf/0
 ```
 
 

@@ -1,7 +1,7 @@
 # - Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/arithmetic/subtract.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/arithmetic/subtract.json
 ```
 
 Subtraction. Passing just one argument to - returns its arithmetic negative (additive inverse).

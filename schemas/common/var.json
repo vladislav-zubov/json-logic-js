@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "http://jsonlogic.com/schemas/common/var.json",
+  "$id": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/var.json",
 
   "title": "Var",
   "description": "Retrieve data from the provided data object.",
@@ -11,23 +11,23 @@
       "items": [
         {
           "oneOf": [
-            { "$ref": "http://jsonlogic.com/schemas/common/pointer.json" },
-            { "$ref": "http://jsonlogic.com/schemas/operators/logic/if.json" }
+            { "$ref": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/pointer.json" },
+            { "$ref": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/logic/if.json" }
           ]
         },
         {
-          "$ref": "http://jsonlogic.com/schemas/common/all-types.json",
+          "$ref": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/all-types.json",
           "title": "Default",
           "description": "You can supply a default, as the second argument, for values that might be missing in the data object."
         }
       ]
     },
-    { "$ref": "http://jsonlogic.com/schemas/operators/array/map.json" },
-    { "$ref": "http://jsonlogic.com/schemas/operators/array/merge.json" },
-    { "$ref": "http://jsonlogic.com/schemas/operators/array/filter.json" },
-    { "$ref": "http://jsonlogic.com/schemas/operators/array/reduce.json" },
+    { "$ref": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/array/map.json" },
+    { "$ref": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/array/merge.json" },
+    { "$ref": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/array/filter.json" },
+    { "$ref": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/array/reduce.json" },
     {
-      "$ref": "http://jsonlogic.com/schemas/common/pointer.json",
+      "$ref": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/pointer.json",
       "title": "Shortcut",
       "description": "If you like, we support syntactic sugar to skip the array around single arguments."
     },

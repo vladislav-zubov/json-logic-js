@@ -1,7 +1,7 @@
 # All Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/any-wo-array.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/any-wo-array.json
 ```
 
 Any valid JSON Logic data source, except array primitive.

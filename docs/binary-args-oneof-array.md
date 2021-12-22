@@ -1,7 +1,7 @@
 # Array Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/binary-args.json#/oneOf/0
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/binary-args.json#/oneOf/0
 ```
 
 An array with one or two elements.

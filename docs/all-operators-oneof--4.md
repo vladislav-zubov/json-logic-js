@@ -1,7 +1,7 @@
 # + Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/arithmetic/add.json#/oneOf/3
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/arithmetic/add.json#/oneOf/3
 ```
 
 Addition. Because addition is associative, it happily take as many args as you want. Passing just one argument to + casts it to a number.

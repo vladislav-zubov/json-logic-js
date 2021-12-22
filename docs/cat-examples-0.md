@@ -1,7 +1,7 @@
 # Untitled undefined type in cat Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/string/cat.json#/examples/0
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/string/cat.json#/examples/0
 ```
 
 

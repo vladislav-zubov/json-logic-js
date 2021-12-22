@@ -1,7 +1,7 @@
 # Binary Arg Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/binary-args.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/binary-args.json
 ```
 
 Up to two args of valid JSON Logic data source.

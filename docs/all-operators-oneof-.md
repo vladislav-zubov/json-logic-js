@@ -1,7 +1,7 @@
 # ! Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/logic/not.json#/oneOf/18
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/logic/not.json#/oneOf/18
 ```
 
 Logical negation (“not”). Takes just one argument.

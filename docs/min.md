@@ -1,7 +1,7 @@
 # min Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/numeric/min.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/numeric/min.json
 ```
 
 Return the minimum from a list of values.

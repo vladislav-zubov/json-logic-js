@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "http://jsonlogic.com/schemas/common/no-logic-object.json",
+  "$id": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/no-logic-object.json",
 
   "title": "No-Logic",
   "description": "Any valid JSON object which is not a logic rule.",

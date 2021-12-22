@@ -1,7 +1,7 @@
 # filter Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/array/filter.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/array/filter.json
 ```
 
 You can use filter to keep only elements of the array that pass a test. Note, that inside the logic being used to map, var operations are relative to the array element being worked on.

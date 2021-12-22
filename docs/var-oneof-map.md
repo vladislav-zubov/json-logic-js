@@ -1,7 +1,7 @@
 # map Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/array/map.json#/oneOf/1
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/array/map.json#/oneOf/1
 ```
 
 You can use map to perform an action on every member of an array. Note, that inside the logic being used to map, var operations are relative to the array element being worked on.

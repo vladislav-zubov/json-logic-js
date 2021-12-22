@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "http://jsonlogic.com/schemas/operators/array/merge.json",
+  "$id": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/array/merge.json",
 
   "title": "merge",
   "description": "Takes one or more arrays, and merges them into one array. If arguments aren’t arrays, they get cast to arrays.",
@@ -9,7 +9,7 @@
   "required": ["merge"],
   "properties": {
     "merge": {
-      "$ref": "http://jsonlogic.com/schemas/common/one-or-more-args.json"
+      "$ref": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/one-or-more-args.json"
     }
   },
   "examples": [

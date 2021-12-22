@@ -1,7 +1,7 @@
 # !! Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/logic/notnot.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/logic/notnot.json
 ```
 
 Double negation, or “cast to a boolean.” Takes a single argument.

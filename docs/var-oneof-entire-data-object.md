@@ -1,7 +1,7 @@
 # Entire data object Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/var.json#/oneOf/6
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/var.json#/oneOf/6
 ```
 
 You can also use var with an empty string to get the entire data object – which is really useful in map, filter, and reduce rules.

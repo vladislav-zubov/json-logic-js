@@ -1,7 +1,7 @@
 # Untitled array in Var Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/var.json#/oneOf/0
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/var.json#/oneOf/0
 ```
 
 

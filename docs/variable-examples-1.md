@@ -1,7 +1,7 @@
 # Untitled undefined type in var Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/accessor/variable.json#/examples/1
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/accessor/variable.json#/examples/1
 ```
 
 

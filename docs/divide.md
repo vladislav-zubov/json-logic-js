@@ -1,7 +1,7 @@
 # / Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/arithmetic/divide.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/arithmetic/divide.json
 ```
 
 Division.

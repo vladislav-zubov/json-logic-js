@@ -1,7 +1,7 @@
 # Untitled undefined type in substr Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/string/substr.json#/examples/1
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/string/substr.json#/examples/1
 ```
 
 

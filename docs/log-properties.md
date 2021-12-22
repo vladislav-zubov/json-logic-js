@@ -1,7 +1,7 @@
 # Untitled undefined type in log Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/misc/log.json#/properties
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/misc/log.json#/properties
 ```
 
 

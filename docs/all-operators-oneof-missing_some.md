@@ -1,7 +1,7 @@
 # missing_some Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/accessor/missing_some.json#/oneOf/2
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/accessor/missing_some.json#/oneOf/2
 ```
 
 Takes a minimum number of data keys that are required, and an array of keys to search for (same format as var or missing). Returns an empty array if the minimum is met, or an array of the missing keys otherwise.

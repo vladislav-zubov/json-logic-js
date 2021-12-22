@@ -1,7 +1,7 @@
 # cat Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/string/cat.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/string/cat.json
 ```
 
 Concatenate all the supplied arguments. Note that this is not a join or implode operation, there is no “glue” string.

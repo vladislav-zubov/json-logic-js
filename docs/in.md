@@ -1,7 +1,7 @@
 # in Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/misc/in.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/misc/in.json
 ```
 
 If the second argument is an array, tests that the first argument is a member of the array: {"in":\[ "Ringo", ["John", "Paul", "George", "Ringo"] ]}.

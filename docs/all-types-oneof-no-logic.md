@@ -1,7 +1,7 @@
 # No-Logic Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/no-logic-object.json#/oneOf/1
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/no-logic-object.json#/oneOf/1
 ```
 
 Any valid JSON object which is not a logic rule.

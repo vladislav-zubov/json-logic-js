@@ -1,7 +1,7 @@
 # none Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/array/none.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/array/none.json
 ```
 
 These operations take an array, and perform a test on each member of that array.

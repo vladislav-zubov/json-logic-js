@@ -1,7 +1,7 @@
 # Property Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/pointer.json#/oneOf/0
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/pointer.json#/oneOf/0
 ```
 
 The key passed to var can use dot-notation to get the property of a property (to any depth you need):

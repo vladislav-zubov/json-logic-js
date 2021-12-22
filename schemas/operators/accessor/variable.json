@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "http://jsonlogic.com/schemas/operators/accessor/variable.json",
+  "$id": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/accessor/variable.json",
 
   "title": "var",
   "description": "Retrieve data from the provided data object.",
@@ -9,7 +9,7 @@
   "required": ["var"],
   "properties": {
     "var": {
-      "$ref": "http://jsonlogic.com/schemas/common/var.json"
+      "$ref": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/var.json"
     }
   },
   "examples": [

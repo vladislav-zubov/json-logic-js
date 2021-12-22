@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "http://jsonlogic.com/schemas/operators/array/map.json",
+  "$id": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/array/map.json",
 
   "title": "map",
   "description": "You can use map to perform an action on every member of an array. Note, that inside the logic being used to map, var operations are relative to the array element being worked on.",
@@ -9,7 +9,7 @@
   "required": ["map"],
   "properties": {
     "map": {
-      "$ref": "http://jsonlogic.com/schemas/common/binary-args.json"
+      "$ref": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/binary-args.json"
     }
   },
   "examples": [

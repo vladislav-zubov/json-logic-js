@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "http://jsonlogic.com/schemas/operators/logic/not.json",
+  "$id": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/logic/not.json",
 
   "title": "!",
   "description": "Logical negation (“not”). Takes just one argument.",
@@ -10,7 +10,7 @@
   "required": ["!"],
   "properties": {
     "!": {
-      "$ref": "http://jsonlogic.com/schemas/common/unary-arg.json"
+      "$ref": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/unary-arg.json"
     }
   },
   "examples": [

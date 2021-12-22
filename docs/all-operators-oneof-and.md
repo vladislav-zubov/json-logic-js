@@ -1,7 +1,7 @@
 # and Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/logic/and.json#/oneOf/15
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/logic/and.json#/oneOf/15
 ```
 
 and can be used for simple boolean tests, with 1 or more arguments. At a more sophisticated level, and returns the first falsy argument, or the last argument.

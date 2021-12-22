@@ -1,7 +1,7 @@
 # substr Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/string/substr.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/string/substr.json
 ```
 
 Get a portion of a string.

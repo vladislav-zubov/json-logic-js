@@ -1,7 +1,7 @@
 # Untitled undefined type in &lt; Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/numeric/less.json#/examples/1
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/numeric/less.json#/examples/1
 ```
 
 

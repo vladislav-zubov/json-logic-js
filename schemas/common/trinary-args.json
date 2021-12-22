@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "http://jsonlogic.com/schemas/common/trinary-args.json",
+  "$id": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/trinary-args.json",
 
   "title": "Trinary Args",
   "description": "Up to three args of valid JSON Logic data source.",
@@ -13,11 +13,11 @@
       "minItems": 1,
       "maxItems": 3,
       "items": {
-        "$ref": "http://jsonlogic.com/schemas/common/any.json"
+        "$ref": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/any.json"
       }
     },
     {
-      "$ref": "http://jsonlogic.com/schemas/common/any-wo-array.json",
+      "$ref": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/any-wo-array.json",
       "title": "Single Arg",
       "description": "Note: trinary operators can also take a single, non array argument:"
     }

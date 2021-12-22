@@ -1,7 +1,7 @@
 # Empty object. Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/no-logic-object.json#/oneOf/0
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/no-logic-object.json#/oneOf/0
 ```
 
 

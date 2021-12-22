@@ -1,7 +1,7 @@
 # &lt; Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/numeric/less.json#/oneOf/29
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/numeric/less.json#/oneOf/29
 ```
 
 Less than. You can use a special case of &lt; to test that one value is exclusively between two others.

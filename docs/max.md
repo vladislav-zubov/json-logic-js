@@ -1,7 +1,7 @@
 # max Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/numeric/max.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/numeric/max.json
 ```
 
 Return the maximum from a list of values.

@@ -1,7 +1,7 @@
 # reduce Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/array/reduce.json#/oneOf/4
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/array/reduce.json#/oneOf/4
 ```
 
 You can use reduce to combine all the elements in an array into a single value, like adding up a list of numbers. Note, that inside the logic being used to reduce, var operations only have access to an object like: {

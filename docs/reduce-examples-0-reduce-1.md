@@ -1,7 +1,7 @@
 # Untitled undefined type in reduce Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/array/reduce.json#/examples/0/reduce/1
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/array/reduce.json#/examples/0/reduce/1
 ```
 
 

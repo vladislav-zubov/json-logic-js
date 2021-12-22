@@ -1,7 +1,7 @@
 # Strict Not-Equal Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/logic/strictNotEqual.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/logic/strictNotEqual.json
 ```
 
 Tests strict not-equal. Requires two arguments.

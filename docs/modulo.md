@@ -1,7 +1,7 @@
 # % Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/arithmetic/modulo.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/arithmetic/modulo.json
 ```
 
 Module. Finds the remainder after the first argument is divided by the second argument.

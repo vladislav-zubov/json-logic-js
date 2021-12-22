@@ -1,7 +1,7 @@
 # Untitled undefined type in filter Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/array/filter.json#/examples/0/filter/0
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/array/filter.json#/examples/0/filter/0
 ```
 
 

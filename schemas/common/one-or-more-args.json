@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "http://jsonlogic.com/schemas/common/one-or-more-args.json",
+  "$id": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/one-or-more-args.json",
 
   "title": "1 or more args",
   "description": "With 1 or more arguments.",
@@ -11,11 +11,11 @@
       "description": "An array with 1 or more elements.",
       "type": "array",
       "items": {
-        "$ref": "http://jsonlogic.com/schemas/common/any.json"
+        "$ref": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/any.json"
       }
     },
     {
-      "$ref": "http://jsonlogic.com/schemas/common/any-wo-array.json",
+      "$ref": "https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/any-wo-array.json",
       "title": "Single Arg",
       "description": "Note: 1 or more operators can also take a single, non array argument:"
     }

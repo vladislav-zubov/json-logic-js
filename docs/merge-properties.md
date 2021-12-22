@@ -1,7 +1,7 @@
 # Untitled undefined type in merge Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/array/merge.json#/properties
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/array/merge.json#/properties
 ```
 
 

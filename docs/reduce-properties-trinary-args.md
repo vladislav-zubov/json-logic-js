@@ -1,7 +1,7 @@
 # Trinary Args Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/trinary-args.json#/properties/reduce
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/trinary-args.json#/properties/reduce
 ```
 
 Up to three args of valid JSON Logic data source.

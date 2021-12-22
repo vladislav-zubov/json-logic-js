@@ -1,7 +1,7 @@
 # Untitled undefined type in min Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/numeric/min.json#/properties
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/numeric/min.json#/properties
 ```
 
 

@@ -1,7 +1,7 @@
 # Pointer Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/pointer.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/pointer.json
 ```
 
 Schema to access properties of an object or items of an array by index.

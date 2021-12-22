@@ -1,7 +1,7 @@
 # Null Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/var.json#/oneOf/7
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/var.json#/oneOf/7
 ```
 
 Unknown null.

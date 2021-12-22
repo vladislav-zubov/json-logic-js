@@ -1,7 +1,7 @@
 # All Schema
 
 ```txt
-http://jsonlogic.com/schemas/common/any.json#/oneOf/0/items
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/common/any.json#/oneOf/0/items
 ```
 
 Any valid JSON Logic data source.

@@ -1,7 +1,7 @@
 # method Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/misc/method.json#/oneOf/26
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/misc/method.json#/oneOf/26
 ```
 
 If your rule needs to call a method on an object, you can use the built-in method operation.

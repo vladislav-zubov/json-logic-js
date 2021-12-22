@@ -1,7 +1,7 @@
 # Not-Equal Schema
 
 ```txt
-http://jsonlogic.com/schemas/operators/logic/notEqual.json
+https://raw.githubusercontent.com/vladislav-zubov/json-logic-js/master/schemas/operators/logic/notEqual.json
 ```
 
 Tests not-equal, with type coercion. Requires two arguments.
